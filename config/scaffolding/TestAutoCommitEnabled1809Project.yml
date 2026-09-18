@@ -7,16 +7,3 @@ packages:
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
-services:
-- serviceName: project.testautocommitenabled1809.integrations:debug
-  packages:
-  - name: TestAutoCommitEnabled1809Project
-    version: "1.0"
-- serviceName: pub.string:toUpper
-  packages:
-  - name: WmPublic
-    version: 12.1.0.0.1143
-- serviceName: pub.flow:debugLog
-  packages:
-  - name: WmPublic
-    version: 12.1.0.0.1143
